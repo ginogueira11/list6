@@ -1,0 +1,7 @@
+U:\3°ANO\POO\Lista6\Lista6\exercício1\bin\Debug\exercício1.exe.config
+U:\3°ANO\POO\Lista6\Lista6\exercício1\bin\Debug\exercício1.exe
+U:\3°ANO\POO\Lista6\Lista6\exercício1\bin\Debug\exercício1.pdb
+U:\3°ANO\POO\Lista6\Lista6\exercício1\obj\Debug\exercício1.csprojResolveAssemblyReference.cache
+U:\3°ANO\POO\Lista6\Lista6\exercício1\obj\Debug\exercício1.csproj.CoreCompileInputs.cache
+U:\3°ANO\POO\Lista6\Lista6\exercício1\obj\Debug\exercício1.exe
+U:\3°ANO\POO\Lista6\Lista6\exercício1\obj\Debug\exercício1.pdb

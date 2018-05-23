@@ -1,0 +1,6 @@
+U:\3°ANO\POO\Lista6\Lista6\exercício2\bin\Debug\exercício2.exe.config
+U:\3°ANO\POO\Lista6\Lista6\exercício2\bin\Debug\exercício2.exe
+U:\3°ANO\POO\Lista6\Lista6\exercício2\bin\Debug\exercício2.pdb
+U:\3°ANO\POO\Lista6\Lista6\exercício2\obj\Debug\exercício2.csproj.CoreCompileInputs.cache
+U:\3°ANO\POO\Lista6\Lista6\exercício2\obj\Debug\exercício2.exe
+U:\3°ANO\POO\Lista6\Lista6\exercício2\obj\Debug\exercício2.pdb
